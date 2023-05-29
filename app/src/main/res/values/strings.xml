@@ -3,4 +3,7 @@
     <string name="one">1</string>
     <string name="title">Title</string>
     <string name="description_note">This is the note\'s description.</string>
+    <string name="description">Description</string>
+    <string name="titleET">Title</string>
+    <string name="priority">Priority:</string>
 </resources>
