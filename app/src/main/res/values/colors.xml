@@ -7,4 +7,10 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    
+    <color name="magnolia">#FCF7FF</color>
+    <color name="french_gray">#C4CAD0</color>
+    <color name="battleship_gray">#878C8F</color>
+    <color name="rose_quartz">#A4969B</color>
+    <color name="wenge">#655560</color>
 </resources>

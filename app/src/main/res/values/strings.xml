@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ROOMExample</string>
+    <string name="app_name">Mini Notes</string>
     <string name="one">1</string>
     <string name="title">Title</string>
     <string name="description_note">This is the note\'s description.</string>
